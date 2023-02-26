@@ -23,14 +23,14 @@ class MainActivity : AppCompatActivity() {
             R.drawable.ahbap,
             R.drawable.bbaskan,
             R.drawable.camoluk,
+            R.drawable.deprem,
+            R.drawable.haland,
             R.drawable.oguzhan,
             R.drawable.sedat,
             R.drawable.silahli,
-            R.drawable.haland,
             R.drawable.kaza,
             R.drawable.multeci,
             R.drawable.kilicdar,
-            R.drawable.deprem,
             R.drawable.pskolog,
 
         )
@@ -39,14 +39,14 @@ class MainActivity : AppCompatActivity() {
             "Haluk Levent, \"Ahbap'lar eğlencede\" diyerek yayınlanan videoya isyan etti: Uğraşmayın, bırakın çalışsınlar”,",
             "Deprem soruşturmasında Belediye Başkanı tutuklandı.",
             "50 milyar TL bağışlayan oto galerici konuştu:Aslında 50 bin TL demek istedim, telefonlarım susmuyor.",
+            "Deprem bölgesinden 6 yaralı ambulans uçakla İstanbul'a getirildi.",
+            "İnanması zor istatistik! Fenerbahçeli Valencia, Haaland'ı geride bıraktı",
             "“YouTuber Oğuzhan Uğur, Ankara'da gözaltına alındığını bildirerek, \"Çayımızı içtik çıktım, iyiyim teşekkürler\" dedi.”",
             "“Sedat Peker bağış yaptı.”",
             "“Zeytinburnu’nda aralarında husumet bulunan gruplar arasında çıkan silahlı çatışmada 4 kişi yaralandı.”",
-            "İnanması zor istatistik! Fenerbahçeli Valencia, Haaland'ı geride bıraktı",
             "Avcılar'da kazada 'aşırı hız' iddiası",
             "Tunus'ta düzensiz göçmenlerle dayanışma için \"ırkçılık karşıtı\" eylem yapıldı",
             "Kılıçdaroğlu: \"Çocuklarımızı Depremin Yarattığı Ağır Travmalardan Korumak Zorundayız.",
-            "Deprem bölgesinden 6 yaralı ambulans uçakla İstanbul'a getirildi.",
             "Deprem bölgesinde 637 bin 488 kişiye psikososyal destek sağlandı"
 
         )
